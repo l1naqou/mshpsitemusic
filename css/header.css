@@ -1,0 +1,25 @@
+input[type="search"]{
+    border: none;
+}
+
+li{
+    margin-left: 25px;
+}
+
+a.nav-link{
+    color: #6c757d;
+}
+
+a.nav-link.naming{
+    font-size: 20px;
+    color: #000;
+}
+
+a.nav-link:hover{
+    color: #fc363b;
+}
+
+a.nav-link:active{
+    color: #fc363b;
+    border-color: #f33;
+}
